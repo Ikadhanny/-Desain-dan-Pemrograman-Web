@@ -1,0 +1,107 @@
+body {
+    background-color: #ccc;
+}
+
+.content {
+    width: 900px;
+    background-color: white;
+    margin: auto;
+    padding: 16px;
+}
+.navbar {
+	background-color: red;
+    text-align: center;
+    margin-top: 20px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-right: 12px;
+    padding-left: 12px;
+    color: white;
+}
+table {
+    width: 100%;
+}
+
+h1 {
+	font-family: roboto;
+   font-size: 24px; 
+}
+
+h3 {
+	font-family: roboto;
+	font-size : 18x;
+}
+
+h4{
+    text-align: center;
+    margin-top: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-right: 12px;
+    padding-left: 12px;
+}
+
+h5{
+    text-align: center;
+    margin-top: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-right: 12px;
+    padding-left: 12px;
+}
+
+.testimoni {
+    background-color: red;
+    text-align: center;
+    margin-top: 20px;
+    padding-top: 12px;
+    padding-bottom: 66px;
+    padding-right: 12px;
+    padding-left: 12px;
+    color: white;
+}
+
+.kata {
+    background-color: red;
+    text-align: center;
+    margin-top: 20px;
+    padding-top: 12px;
+    padding-bottom: 66px;
+    padding-right: 12px;
+    padding-left: 12px;
+    color: white;
+}
+
+.home-title{
+    text-align: center;
+}
+
+.Opini {
+    background-color: red;
+    text-align: justify;
+    margin-top: 20px;
+    padding-top: 12px;
+    padding-bottom: 66px;
+    padding-right: 12px;
+    padding-left: 12px;
+    color: white;
+}
+
+.Opini img {
+    margin-left:10px; 
+    float:left; 
+    margin-right:15px;
+    
+}
+
+.socialmedia{
+    background-color: red;
+    color: white;
+}
+
+#pencarian {
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 3px;
+}
+
