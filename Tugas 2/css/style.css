@@ -1,0 +1,58 @@
+.header{
+    background-color: silver;
+}
+.sosial{
+    list-style-type: inline;
+}
+.sosial li{
+    float: right;
+    display: block;
+    margin: 0px 5px 3px 10px;
+    padding: 0px 5px 0px 0px;
+    color:white;
+
+}
+.nav-item {
+    border-radius: 2rem;
+}
+
+.carousel-inner{
+    border: 2px solid black;
+    border-bottom-left-radius: 2rem;
+    border-bottom-right-radius: 2rem;
+}
+.corousel-caption{
+    background-color: white;
+    padding-inline-end: inline;
+    
+}
+.cta-wrap{
+    background-color:red;
+    color:white;
+    margin-left: 2rem;
+    display: block;
+	padding: 5px;
+	border-radius: 2rem;
+}
+
+.box{
+    border-radius: 2rem;
+    border-color: black;
+    background: silver;
+}
+.opini-box{
+    background: White;
+    padding-bottom: 12px;
+}
+.content{
+    text-align:justify;
+}
+.imgopini {
+    text-align: justify;
+    margin-top: 20px;
+    padding-bottom: 12px;
+    padding-left: 12px;
+    color: black;
+}
+
+
